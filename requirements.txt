@@ -1,0 +1,9 @@
+openai
+pika
+sqlalchemy
+flask
+numpy
+pandas
+scikit-learn
+torch
+transformers
